@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Danielle Gallenito! I am currently working as a Sr. Business Insights Analyst at TaskUs but I also work as a freelancer. I aspire to be a data scientist. I love new knowledge and I'm a Data Science scholar at Project SPARTA.
+I'm Danielle Gallenito! I am currently working as a Sr. Business Insights Analyst at TaskUs but I also work as a freelancer. I aspire to be a data scientist. I love new knowledge and I'm a Data Science scholar at Project SPARTA.
 <!--
 **drgallenito/drgallenito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
